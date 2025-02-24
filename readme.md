@@ -49,18 +49,7 @@ There are many different roles and responsibilities in the web development indus
 
 ##### Tech Trends
 
-The web development industry is constantly evolving, with new technologies and trends emerging all the time. We'll learn about the latest trends and technologies in web development, including:
-
-- Test-Driven Development
-- Types in JavaScript/React/TypeScript
-
-##### Skills and Tools
-
-To succeed in the web development industry, you need a variety of skills and tools. We'll learn about:
-
-- Frameworks and libraries, like React, Svelte, Vue, Node.js, Django, Ruby on Rails, and HTMX.
-- Version control systems, like Git and GitHub.
-- Collaboration tools, like Slack, Trello, and Jira.
+The web development industry is constantly evolving, with new technologies and trends emerging all the time. We'll learn about the latest trends and technologies in web development.
 
 ### Interview Preparation
 
