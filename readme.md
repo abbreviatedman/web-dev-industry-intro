@@ -1,4 +1,4 @@
-# Web Portfolio and The Web Dev Industry
+# Entering The Web Development Industry
 
 ### Course Overview
 
